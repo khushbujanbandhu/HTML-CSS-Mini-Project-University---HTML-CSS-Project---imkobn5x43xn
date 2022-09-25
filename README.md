@@ -1,9 +1,8 @@
 # This is a Food Recipe Site
 
-### By Sachin Kumar
+### Khushbu Janbandhu
 
-#### This Web Page is Showing My Photography Sample Shots
-#### [Link to View my work](https://Sachin-Food-Recipe.netlify.app)
+
 
 ## Technologies Used
 
